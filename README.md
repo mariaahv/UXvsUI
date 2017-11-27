@@ -8,4 +8,4 @@ En conceptos generales definiré lo que realiza un UX Y UI.
 +	**UX**: Se enfoca en diseñar productos útiles, usables y deseables, lo cual influye en que el usuario se sienta satisfecho, feliz y encantado.
 +	**UI**: Es la suma de una arquitectura de información + elementos visuales + patrones de interacción.
 
-![youtube](assets\images\2.png "sistema_navegacion")
+![youtube](assets/images/2.png "sistema_navegacion")
